@@ -1,0 +1,42 @@
+[
+  {
+    "code": "USR-001",
+    "description": "Montagem e desmontagem",
+    "scope": "Referência pessoal. Informe seu próprio tempo antes de conferir excessos.",
+    "rate": null,
+    "unit": "Evento",
+    "version": "personal-reference-v1"
+  },
+  {
+    "code": "USR-002",
+    "description": "Manobra de coluna",
+    "scope": "Referência pessoal. Informe seu próprio tempo antes de conferir excessos.",
+    "rate": null,
+    "unit": "Evento",
+    "version": "personal-reference-v1"
+  },
+  {
+    "code": "USR-003",
+    "description": "Circulação",
+    "scope": "Referência pessoal. Informe seu próprio tempo antes de conferir excessos.",
+    "rate": null,
+    "unit": "Evento",
+    "version": "personal-reference-v1"
+  },
+  {
+    "code": "USR-004",
+    "description": "Teste de pressão",
+    "scope": "Referência pessoal. Informe seu próprio tempo antes de conferir excessos.",
+    "rate": null,
+    "unit": "Evento",
+    "version": "personal-reference-v1"
+  },
+  {
+    "code": "USR-005",
+    "description": "Serviço especial",
+    "scope": "Referência pessoal. Informe seu próprio tempo antes de conferir excessos.",
+    "rate": null,
+    "unit": "Evento",
+    "version": "personal-reference-v1"
+  }
+]
