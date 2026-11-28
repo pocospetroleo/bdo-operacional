@@ -1,0 +1,107 @@
+[
+  [
+    "DTM",
+    "Mobilização",
+    "Preparação"
+  ],
+  [
+    "DTM",
+    "Mobilização",
+    "Transporte"
+  ],
+  [
+    "DTM",
+    "Mobilização",
+    "Montagem"
+  ],
+  [
+    "DTM",
+    "Mobilização",
+    "Desmontagem"
+  ],
+  [
+    "Operação",
+    "Coluna",
+    "Descida"
+  ],
+  [
+    "Operação",
+    "Coluna",
+    "Retirada"
+  ],
+  [
+    "Operação",
+    "Coluna",
+    "Manobra"
+  ],
+  [
+    "Operação",
+    "Circulação",
+    "Circulação direta"
+  ],
+  [
+    "Operação",
+    "Circulação",
+    "Circulação reversa"
+  ],
+  [
+    "Operação",
+    "Teste",
+    "Teste de pressão"
+  ],
+  [
+    "Operação",
+    "Teste",
+    "Teste de estanqueidade"
+  ],
+  [
+    "Operação",
+    "Serviço especial",
+    "Canhoneio"
+  ],
+  [
+    "Operação",
+    "Serviço especial",
+    "Fraturamento"
+  ],
+  [
+    "Operação",
+    "Serviço especial",
+    "Cimentação"
+  ],
+  [
+    "Operação",
+    "Serviço especial",
+    "Perfilagem"
+  ],
+  [
+    "Operação",
+    "Serviço especial",
+    "Pescaria"
+  ],
+  [
+    "Parada",
+    "Manutenção",
+    "Manutenção preventiva"
+  ],
+  [
+    "Parada",
+    "Manutenção",
+    "Manutenção corretiva"
+  ],
+  [
+    "Parada",
+    "Logística",
+    "Aguardando material"
+  ],
+  [
+    "Parada",
+    "Logística",
+    "Aguardando transporte"
+  ],
+  [
+    "Parada",
+    "Operação",
+    "Aguardando liberação"
+  ]
+]
